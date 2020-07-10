@@ -6,3 +6,5 @@ arr.each do |current|
  max = current if current > max
 end
 puts "#{a - max} #{a - min}"
+
+# New commit in jul_11
